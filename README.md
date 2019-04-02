@@ -2,7 +2,7 @@
 This was just some simple java examples from a pluralsight code.  Currently used to test, and debug, while learing java.
 
 <<<<<<< HEAD
-Had to add files back after messing up my branch changes.
+Had to add files back after messing up my branch changes...a
 
 Updated config user.
 =======
